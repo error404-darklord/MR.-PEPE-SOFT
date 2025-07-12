@@ -59,7 +59,7 @@ python main.py
 
 - **Главный разработчик: Ghoustmacho - Mr. pepe**
 - **Главный мотив/Главная идея: Mr. pepe**
-- **помощники: ChatGPT, Talyan_rp**
+- **помощники: Talyan_rp**
 - **идеи предлагали:** 
 
 **• kiskis love mr.pepe**
