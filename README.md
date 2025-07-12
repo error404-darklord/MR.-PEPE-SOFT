@@ -68,12 +68,12 @@ python main.py
 
 Можно по контактам:
 - mail: ghoustriley@proton.me
-- [telegram](https:/t.me/ghoustmacho)
+- telegram: [telegram](https:/t.me/ghoustmacho)
 
 **каналы разработчика:
-[Mr.pepe catalog](https://t.me/ghoustcatalog02)
-[Mr.pepe bio](https://t.me/bioghoustmacho)**
+Mr.pepe catalog: [Mr.pepe catalog](https://t.me/ghoustcatalog02)
+Mr.pepe bio: [Mr.pepe bio](https://t.me/bioghoustmacho)**
 
 **связь с помощниками проекта:
-[talyan](https://t.me/talyan_rp)
-[kiskis](https://t.me/fuckkiskis)**
+talyan: [talyan](https://t.me/talyan_rp)
+kiskis: [kiskis](https://t.me/fuckkiskis)**
