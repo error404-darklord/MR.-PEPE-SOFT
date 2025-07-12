@@ -76,7 +76,7 @@ python main.py
 
 - **Mr.pepe bio: [Mr.pepe bio](https://t.me/bioghoustmacho)**
 
-- **связь с помощниками проекта:**
+**связь с помощниками проекта:**
 
 - **talyan: [talyan](https://t.me/talyan_rp)**
 
