@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=./pytransform python main.py
