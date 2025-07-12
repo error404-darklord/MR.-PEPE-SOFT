@@ -71,9 +71,13 @@ python main.py
 - telegram: [telegram](https:/t.me/ghoustmacho)
 
 **каналы разработчика:
+
 Mr.pepe catalog: [Mr.pepe catalog](https://t.me/ghoustcatalog02)
+
 Mr.pepe bio: [Mr.pepe bio](https://t.me/bioghoustmacho)**
 
 **связь с помощниками проекта:
+
 talyan: [talyan](https://t.me/talyan_rp)
+
 kiskis: [kiskis](https://t.me/fuckkiskis)**
