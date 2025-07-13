@@ -46,14 +46,9 @@
 - Анимации загрузки
 - Прогресс-бар установки модулей
 
-## Установка
+# Покупка
 
-```bash
-pkg install python git -y
-git clone https://github.com/error404-darklord/MR.-PEPE-SOFT
-cd project-mrpepe
-python main.py
-```
+**для покупки софта пишите мне в телеграм ниже.**
 
 # разработчики
 
